@@ -227,6 +227,10 @@ right:-50%;
 }
 
 @media screen and (max-width:400px){
+
+    .conatiner{
+        height: calc(100vh - 50px);
+    }
     .form-box{
         padding: 20px;
     }
